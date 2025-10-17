@@ -20,3 +20,13 @@ Whether you’re a beginner or preparing for a DevOps role, these notes will hel
 * What are web applications?
 * What is application support?
 * What is application maintenance?
+
+### 02. Introduction
+
+* What is Operating System?
+* Introduction to linux operating system
+* Why linux over windows
+* Linux structure
+* Boot Process
+* Linux Distributions
+* Package Managers

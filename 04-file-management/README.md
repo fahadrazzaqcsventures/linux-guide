@@ -53,5 +53,3 @@ Use `tail -f logfile.log` to **monitor logs in real-time** — useful for debugg
 
 > Linux file management is done through simple yet powerful terminal commands.  
 > Mastering these lets you quickly navigate, organize, and modify files — without needing a GUI!
-
-**Next Section:** [User Management in Linux](../user-management/README.md)

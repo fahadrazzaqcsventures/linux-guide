@@ -82,3 +82,12 @@ Whether you’re a beginner or preparing for a DevOps role, these notes will hel
 * Disk Monitoring
 * Network Monitoring
 * Log Monitoring
+
+## 09. Networking
+
+* `ping`
+* `ifconfig`
+* `ip`
+* `netstat -tulnp`
+* `curl`
+* `wget`

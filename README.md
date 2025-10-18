@@ -68,3 +68,10 @@ Whether you’re a beginner or preparing for a DevOps role, these notes will hel
 * Change only group
 * View or set default permissions
 
+## 07. Process Management
+
+* Viewing Processes
+* Managing Processes
+* Background & Foreground Processes
+* Monitoring System Processes
+* Daemon Process Management

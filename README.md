@@ -59,3 +59,12 @@ Whether you’re a beginner or preparing for a DevOps role, these notes will hel
 * Search & Replace
 * Save & Quit
 * Split Windows
+
+## 06. File Permissions
+
+* View permissions
+* Change permissions
+* Change file owner/group
+* Change only group
+* View or set default permissions
+

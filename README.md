@@ -91,3 +91,10 @@ Whether you’re a beginner or preparing for a DevOps role, these notes will hel
 * `netstat -tulnp`
 * `curl`
 * `wget`
+
+## 10. Disk and Storage Management
+* Viewing Disk Information
+* Partition Management
+* Mounting and Unmounting
+* Logical Volume Management (LVM)
+* Swap Management

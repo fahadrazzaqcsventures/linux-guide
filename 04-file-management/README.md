@@ -7,6 +7,7 @@ Below is a simple guide with examples and short explanations.
 
 | **Command** | **Description / Function** | **Example** |
 |--------------|-----------------------------|--------------|
+| `touch`| Creates a new file | `touch file.html`|
 | `ls` | Lists files and directories in the current folder. | `ls -l` → list in long format with permissions, owner, and size |
 | `cd /path/to/dir` | Changes the current working directory. | `cd /home/fahad/Documents` |
 | `pwd` | Prints the current working directory. | `pwd` |

@@ -43,3 +43,11 @@ Whether you’re a beginner or preparing for a DevOps role, these notes will hel
 * Viewing Group Memberships
 * Changing Primary Group
 * Adding a User to Sudo Group
+
+## 04. File Management
+
+* Navigate directories: `cd`, `pwd`, `ls`
+* Create or remove: `mkdir`, `rmdir`, `rm`
+* Copy or move: `cp`, `mv`
+* View content: `cat`, `less`, `head`, `tail`
+* Edit text files: `nano`, `vi`, `echo`

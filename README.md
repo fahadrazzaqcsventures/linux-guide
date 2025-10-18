@@ -51,3 +51,11 @@ Whether you’re a beginner or preparing for a DevOps role, these notes will hel
 * Copy or move: `cp`, `mv`
 * View content: `cat`, `less`, `head`, `tail`
 * Edit text files: `nano`, `vi`, `echo`
+
+## 05. VI Editor Shortcuts
+
+* Navigation
+* Editing
+* Search & Replace
+* Save & Quit
+* Split Windows

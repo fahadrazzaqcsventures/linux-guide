@@ -75,3 +75,10 @@ Whether you’re a beginner or preparing for a DevOps role, these notes will hel
 * Background & Foreground Processes
 * Monitoring System Processes
 * Daemon Process Management
+
+## 08. System Monitoring
+
+* CPU and Memory Monitoring
+* Disk Monitoring
+* Network Monitoring
+* Log Monitoring

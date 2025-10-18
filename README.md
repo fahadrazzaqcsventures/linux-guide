@@ -30,3 +30,16 @@ Whether you’re a beginner or preparing for a DevOps role, these notes will hel
 * Boot Process
 * Linux Distributions
 * Package Managers
+
+## 03. User Management
+
+* Introduction to User Management
+* Creating Users
+* Managing User Passwords
+* Modifying Users
+* Deleting Users
+* Creating Groups
+* Adding Users to Groups
+* Viewing Group Memberships
+* Changing Primary Group
+* Adding a User to Sudo Group
